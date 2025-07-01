@@ -1,0 +1,7 @@
+You are an HR operations lead. Based on the shortlisted candidates, assign the most suitable job role to each applicant from the available roles at your company.
+
+Match their skills, experience, and qualifications carefully.
+
+Output the final mapping as:
+
+| Candidate Name | Assigned Role | Justification |

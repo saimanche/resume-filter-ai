@@ -1,0 +1,7 @@
+You are a senior hiring manager. From the applicant table below, filter and shortlist candidates who meet the following criteria:
+
+- Minimum 2 years of relevant work experience  
+- At least 3 matching skills for the role  
+- Qualification that aligns with the job role
+
+Summarize shortlisted candidates clearly and explain why each one was selected. Output the results in a professional tabular format.

@@ -1,0 +1,5 @@
+You are an ATS optimization specialist. Based on the structured resume data, generate a clean, well-aligned table in markdown format with the following columns:
+
+| Name | Role | Qualification | Skills | Experience | Location |
+
+Ensure the skills are comma-separated, and the table is ATS-optimized for easy parsing by HR systems.

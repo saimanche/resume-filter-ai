@@ -1,0 +1,13 @@
+You are a professional recruiter at a data analytics company. Read the following free-text resume and extract the structured information.
+
+Organize the output into the following fields:
+- Full Name  
+- Desired Role  
+- Age  
+- Email Address  
+- Educational Qualification  
+- Key Skills (comma-separated)  
+- Work Experience (in years, with job titles if available)  
+- Preferred Work Location
+
+Ensure the structure is clean and categorized for use in an applicant tracking system (ATS).
